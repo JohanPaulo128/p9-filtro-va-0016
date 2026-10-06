@@ -1,3 +1,6 @@
+print("Johan Paulo Aros Reveles NC 0016 Problema 4")
+print("EJEMPLO 2 — Detección de contornos")
+
 import cv2
 
 # Cargar imagen
@@ -56,3 +59,6 @@ cv2.waitKey(0)
 
 # Cerrar ventanas
 cv2.destroyAllWindows()
+
+print("Johan Paulo Aros Reveles NC 0016 Problema 4")
+print("EJEMPLO 2 — Detección de contornos")
